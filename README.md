@@ -38,6 +38,7 @@ gcloud init
 ```
 
 
+
 ## How to run?
 
 ```bash
@@ -46,6 +47,7 @@ conda create -n nerproj python=3.8 -y
 
 ```bash
 conda activate nerproj
+
 ```
 
 ```bash
